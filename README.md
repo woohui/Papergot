@@ -1,4 +1,4 @@
 # Papergot
 Got a Paper?<br>
-今天是2021年4月8日20点02分<br>
+今天是<script>document.getElementById("demo").innerHTML = Date(year, month, day, hours, minutes, seconds, milliseconds);</script><br>
 <a href="http://www.papergot.com" target="_blank">回到PaperGot</a><br>
