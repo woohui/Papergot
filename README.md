@@ -9,6 +9,7 @@
 
 > 第八章：电子商务运营管理
 >> + 时间待定：甘特图<br>
+'''mermaid
 gantt
 dateFormat  YYYY-MM-DD
 title 软件开发甘特图
@@ -27,4 +28,4 @@ section 测试
 功能测试:active, a1, after des3, 3d
 压力测试:after a1  , 20h
 测试报告: 48h
-
+'''
