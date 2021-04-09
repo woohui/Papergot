@@ -9,7 +9,7 @@
 
 > 第八章：电子商务运营管理
 >> + 时间待定：甘特图<br>
-%% 语法示例
+
         gantt
         dateFormat  YYYY-MM-DD
         title 软件开发甘特图
