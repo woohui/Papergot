@@ -7,9 +7,6 @@
 >>> + 2021年4月9日：<a href="https://www.bilibili.com/video/BV1av411t76E">互联网幕后大佬段永平的奇妙故事</a>
 
 >电子商务市场调研
->> + 市场调研的作用。完美日记；五菱。<br>
-+ 品牌定位
-+ 话题营销
-+ 大众传播
+>> + 市场调研的作用。完美日记；五菱。<br>品牌定位<br>话题营销<br>大众传播
 >> + 2021年4月12日：市场调研的常用方法：<a href="https://www.bilibili.com/video/BV1jT4y1G73P?from=search&seid=1886244975644784787">浑水资本调研的常用方法</a>
 >> + 调研什么？<a href="https://www.bilibili.com/video/BV16K411L7tR/">老罗的创业史</a>
