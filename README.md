@@ -7,7 +7,7 @@
 >>> + 2021年4月9日：<a href="https://www.bilibili.com/video/BV1av411t76E">互联网幕后大佬段永平的奇妙故事</a>;<br>
 
 >> 第四章：电子商务战略
->>> + 2021年4月14日，周三：《隆中对》<br>
+>>> + 2021年4月14日，周三：<a href='https://hanyu.baidu.com/shici/detail?pid=edce8e9bb2a344dd9d9d0fea2f70aee2' target='_blank'>《隆中对》</a><br>
 <br>
 >电子商务市场调研
 >> + 市场调研的作用。完美日记；五菱。<br>品牌定位<br>话题营销<br>大众传播
