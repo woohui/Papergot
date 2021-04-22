@@ -8,7 +8,7 @@
 
 >> 第四章：电子商务战略
 >>> + 2021年4月14日，周三：<a href='https://hanyu.baidu.com/shici/detail?pid=edce8e9bb2a344dd9d9d0fea2f70aee2' target='_blank'>《隆中对》</a><br>
->>> + 2021年4月23日，周五：<a href='https://www.bilibili.com/video/BV1ob4y1S7xz?from=search&seid=2556390513940514759'>新能源汽车行业</a>
+>>> + 2021年4月23日，周五：<a href='https://www.bilibili.com/video/BV1ob4y1S7xz?from=search&seid=2556390513940514759' target='_blank'>新能源汽车行业</a>
 
 >电子商务市场调研
 >> + 市场调研的作用。完美日记；五菱。<br>品牌定位<br>话题营销<br>大众传播
