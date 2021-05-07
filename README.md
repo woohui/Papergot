@@ -6,7 +6,7 @@
 
 >> 第四章：电子商务战略
 >>> + 2021年4月14日，周三：<a href='https://hanyu.baidu.com/shici/detail?pid=edce8e9bb2a344dd9d9d0fea2f70aee2' target='_blank'>《隆中对》</a><br>
->>> + 2021年4月23日，周五：<a href='https://www.bilibili.com/video/BV1ob4y1S7xz?from=search&seid=2556390513940514759' target='_blank'>新能源汽车行业</a>，<a href="https://www.bilibili.com/video/BV1Nq4y1J7em">26年研发，2万项专利，东方神秘大厂比亚迪的电池帝国</a><br>
+>>> + 2021年4月23日，周五：<a href='https://www.bilibili.com/video/BV1ob4y1S7xz?from=search&seid=2556390513940514759' target='_blank'>新能源汽车行业</a>；<a href="https://www.bilibili.com/video/BV1Nq4y1J7em">26年研发，2万项专利，东方神秘大厂比亚迪的电池帝国</a><br>
 >>> + 2021年4月30日，周五：<a href="https://www.bilibili.com/bangumi/play/ep395189">大国崛起</a><br>
 >>> 
 
