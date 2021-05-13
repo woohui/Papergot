@@ -14,3 +14,6 @@
 >> + 市场调研的作用。完美日记；五菱。<br>品牌定位<br>话题营销<br>大众传播
 >> + 2021年4月12日：市场调研的常用方法：<a href="https://www.bilibili.com/video/BV1jT4y1G73P?from=search&seid=1886244975644784787">浑水资本调研的常用方法</a>
 >> + 调研什么？<a href="https://www.bilibili.com/video/BV16K411L7tR/">老罗的创业史</a>
+
+>小tips
+>> + <a href='https://zhidao.baidu.com/question/717134730116328085.html' target="_blank">excel的数据导入到word</a>
