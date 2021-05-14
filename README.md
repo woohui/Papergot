@@ -19,4 +19,5 @@
 >> + 试卷打标签： <a href='https://zhidao.baidu.com/question/717134730116328085.html' target="_blank">excel的数据导入到word</a>
 
 >劳动合同法
->> + <a href="http://tv.cctv.com/2016/09/24/VIDEtOIQLrPuPwZ5ivW8Oz17160924.shtml" target='_blank'>被开除的癌症患者</a>
+>> + <a href="http://tv.cctv.com/2016/09/24/VIDEtOIQLrPuPwZ5ivW8Oz17160924.shtml" target='_blank'>被开除的癌症患者</a><br>
+>> + <a href="https://tv.cctv.com/2018/11/05/VIDEyCZ8NBC7n2APWkuYvB1U181105.shtml" target="_blank">今日说法：学徒</a>
