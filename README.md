@@ -8,7 +8,13 @@
 >>> + 2021年4月14日，周三：<a href='https://hanyu.baidu.com/shici/detail?pid=edce8e9bb2a344dd9d9d0fea2f70aee2' target='_blank'>《隆中对》</a><br>
 >>> + 2021年4月23日，周五：<a href='https://www.bilibili.com/video/BV1ob4y1S7xz?from=search&seid=2556390513940514759' target='_blank'>新能源汽车行业</a>；<a href="https://www.bilibili.com/video/BV1Nq4y1J7em">26年研发，2万项专利，东方神秘大厂比亚迪的电池帝国</a><br>
 >>> + 2021年4月30日，周五：<a href="https://www.bilibili.com/bangumi/play/ep395189">大国崛起</a><br>
->>> 
+
+>> 电子商务数据流管理
+>>> <a href="https://v.qq.com/x/page/r0966sjow5y.html" target="_blank">山东电子政务</a><br>
+
+>> 电子商务物流
+>>> <a href="https://www.bilibili.com/bangumi/play/ep156667"  target="_blank">商战（电商物流篇）</a><br>
+>>> <a href="https://www.bilibili.com/video/BV1mf4y1q77D"  target="_blank">一场正在到来的交通革命！</a><br>
 
 >电子商务市场调研
 >> + 市场调研的作用。完美日记；五菱。<br>品牌定位<br>话题营销<br>大众传播
