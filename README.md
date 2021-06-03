@@ -13,8 +13,7 @@
 >>> <a href="https://v.qq.com/x/page/r0966sjow5y.html" target="_blank">山东电子政务</a><br>
 
 >> 电子商务物流
->>> <a href="https://www.bilibili.com/bangumi/play/ep156667"  target="_blank">商战（电商物流篇）</a><br>
->>> <a href="https://www.bilibili.com/video/BV1mf4y1q77D"  target="_blank">一场正在到来的交通革命！</a><br>
+>>> + <a href="https://www.bilibili.com/bangumi/play/ep156667"  target="_blank">商战（电商物流篇）</a><br> <a href="https://www.bilibili.com/video/BV1mf4y1q77D"  target="_blank">一场正在到来的交通革命！</a><br>
 
 >电子商务市场调研
 >> + 市场调研的作用。完美日记；五菱。<br>品牌定位<br>话题营销<br>大众传播
