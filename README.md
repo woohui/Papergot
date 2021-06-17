@@ -18,6 +18,9 @@
 >> 电子商务运营管理
 >>> + <a href="https://www.bilibili.com/video/BV1Gx411s7yu" target="_blank">《对话》20170604 大数据时代的制造业新生态</a><br>
 
+>>电子商务与企业流程再造
+>>> + <a href="https://www.bilibili.com/video/BV1U5411h78e" targrt="_blank">8年苦追，9年经营，吉利治下的volvo复兴之路-吉利汽车 Part3【海狸汽车台】</a>
+
 >电子商务市场调研
 >> + 市场调研的作用。完美日记；五菱。<br>品牌定位<br>话题营销<br>大众传播
 >> + 2021年4月12日：市场调研的常用方法：<a href="https://www.bilibili.com/video/BV1jT4y1G73P?from=search&seid=1886244975644784787">浑水资本调研的常用方法</a>
