@@ -1,4 +1,18 @@
 >电子商务管理
+>> 第一章
+| 微信公众号 | 图片                                                         |
+| ---------- | ------------------------------------------------------------ |
+| 侠客岛     | <img src="https://bkimg.cdn.bcebos.com/pic/91ef76c6a7efce1b1d27fd4aa251f3deb48f6525?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" alt="IMG_7516" style="zoom:25%;" /> |
+| 玉渊潭天   |                                                              |
+| 共青团中央 |                                                              |
+| 广东共青团 |                                                              |
+| 星球研究所 |                                                              |
+| 地球知识局 |                                                              |
+| 电商头条   |                                                              |
+| 广告门APP  |                                                              |
+|            |                                                              |
+
+
 >> 第三章：电子商务组织与管理体制
 >>> + 某个不知名的日子：关于和尚煮粥、分粥的探究，什么是组织？什么是体制？<br>
 >>> + 2021年4月6日：<a href="https://www.bilibili.com/video/BV15E411x7XR">完美日记营销模式探究</a>；<br><a href="https://www.bilibili.com/video/BV1oJ411j7ph">《时间的朋友》跨年演讲</a>             68：00开始，所谓的新基础设施就是虚拟企业的基石;<br>
