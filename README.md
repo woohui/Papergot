@@ -44,6 +44,7 @@
 
 >小tips
 >> + 试卷打标签： <a href='https://zhidao.baidu.com/question/717134730116328085.html' target="_blank">excel的数据导入到word</a>
+>> + <a href="http://www.gdhrss.gov.cn/gdweb/ggfw/web/pub/ggfwzyjs.do" targrt="_blank">广东省专业技术人才职称管理系统</a>
 
 >劳动合同法
 >> + <a href="http://tv.cctv.com/2016/09/24/VIDEtOIQLrPuPwZ5ivW8Oz17160924.shtml" target='_blank'>被开除的癌症患者</a><br>
