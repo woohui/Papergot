@@ -23,7 +23,7 @@
 >>> + 2021年4月14日，周三：<a href='https://hanyu.baidu.com/shici/detail?pid=edce8e9bb2a344dd9d9d0fea2f70aee2' target='_blank'>《隆中对》</a><br>
 >>> + 2021年4月23日，周五：<a href='https://www.bilibili.com/video/BV1ob4y1S7xz?from=search&seid=2556390513940514759' target='_blank'>新能源汽车行业</a>；<a href="https://www.bilibili.com/video/BV1Nq4y1J7em">26年研发，2万项专利，东方神秘大厂比亚迪的电池帝国</a><br>
 >>> + 2022年5月16日，周一：<a href="https://www.bilibili.com/video/BV1vY4y1r79H" target="_blank">刘畊宏顶流速成的传播分析，对我们有何启示？</a><br>
->>> + 2022年5月17日，周二：战略实施方案。<a href="https://www.bilibili.com/video/BV1BR4y1u7qH" target="_blank">风吹草低现“光伏羊”，网红羊如何牵出共同富裕大文章</a><br>
+>>> + 2022年5月17日，周二：<a href="https://www.bilibili.com/video/BV1BR4y1u7qH" target="_blank">风吹草低现“光伏羊”，网红羊如何牵出共同富裕大文章</a><br>
 >>> + 2021年4月30日，周五：<a href="https://www.bilibili.com/bangumi/play/ep395189">大国崛起</a><br>
 >>> + 2021年9月25日，孟晚舟回国，很是自豪。背后的阴谋不寒而栗。<a href="https://www.bilibili.com/video/BV1f64y1b7Tk" target="_balnk">玉渊潭天：孟晚舟回家，美国围猎失败，我扒出幕后利益链…</a>
 
