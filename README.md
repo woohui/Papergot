@@ -38,7 +38,6 @@
 
 >>电子商务与企业流程再造
 >>> + <a href="https://www.bilibili.com/video/BV1U5411h78e" target="_blank">8年苦追，9年经营，吉利治下的volvo复兴之路-吉利汽车 Part3【海狸汽车台】</a>
->>> + <a href="https://mp.weixin.qq.com/s/b_QsABXRLyz3IQmhViidKg" target="_blank">致广州新华学院（东莞校区）全体学子的一封信</a>
 >>> + <a href="https://www.bilibili.com/video/BV1ua411a7zQ" target="_blank">网飞凭啥这么牛？</a>
 
 >电子商务市场调研
