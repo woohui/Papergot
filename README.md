@@ -3,6 +3,7 @@
 >> 1、大数据的含义
 >>> + <a href="https://www.bilibili.com/video/BV1c54y1n7z9/?vd_source=eccf822500752bc3375f5860ee387d61" target="_blank">滴滴被7部门联合查，出行数据是否泄漏关乎国家安全 </a>
 >>> + <a href="https://www.bilibili.com/video/BV1MS4y197fi" target="_blank">你是如何被大数据+心理学操控的？</a>
+
 >> 2、云计算
 >>> + <a href="https://www.bilibili.com/video/BV1zY4y1k7FC" target="_blank">天崩开局，中国云计算是如何逆袭到世界第二的？ </a>
 
