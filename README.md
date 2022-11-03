@@ -46,6 +46,7 @@
 >>电子商务与企业流程再造
 >>> + <a href="https://www.bilibili.com/video/BV1U5411h78e" target="_blank">8年苦追，9年经营，吉利治下的volvo复兴之路-吉利汽车 Part3【海狸汽车台】</a>
 >>> + <a href="https://www.bilibili.com/video/BV1ua411a7zQ" target="_blank">网飞凭啥这么牛？</a>
+>>> + <a href="https://www.bilibili.com/video/BV1684y1i7tp" target="_blank">集装箱：中国制造横扫全球的秘密，就在这个箱子里</a>
 
 >电子商务市场调研
 >> + 市场调研的作用。完美日记；五菱。<br>品牌定位<br>话题营销<br>大众传播
