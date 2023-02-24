@@ -1,3 +1,7 @@
+>物流管理<br>
+<a href="https://www.bilibili.com/video/BV1Xa4y1h7Us" target="_blank">中国冲击世界第一的关键——物流专业！详解国家崛起的秘密</a>
+
+
 >大数据导论模块<br>
 【推荐】央视纪录片：<a href="https://www.bilibili.com/video/BV1px411X7RZ" target="_balnk">大数据时代</a>
 >> 1、大数据的含义
