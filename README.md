@@ -1,7 +1,7 @@
 >物流管理<br>
->> 1、现代物流概论<br>
+>> 1、现代物流概论
 >>> + <a href="https://www.bilibili.com/video/BV1Xa4y1h7Us" target="_blank">中国冲击世界第一的关键——物流专业！详解国家崛起的秘密</a><br>
->> 2、物流系统<br>
+>> 2、物流系统
 >>> + <a href="https://mp.weixin.qq.com/s/9oz7b5vBlso_xoux3Djymw" target="_blank">外卖骑手，困在系统里</a>
 
 >大数据导论模块<br>
