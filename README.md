@@ -5,6 +5,8 @@
 >> 2、物流系统
 >>> + <a href="https://mp.weixin.qq.com/s/9oz7b5vBlso_xoux3Djymw" target="_blank">外卖骑手，困在系统里</a>
 
+>> 4、企业物流
+>>> + <a href="https://www.bilibili.com/video/BV1Pe4y1H7Dz" target="_blank">蜜雪冰城要上市了，给大家扒一扒它的秘密</a>
 
 >大数据导论模块<br>
 【推荐】央视纪录片：<a href="https://www.bilibili.com/video/BV1px411X7RZ" target="_balnk">大数据时代</a>
