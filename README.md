@@ -6,7 +6,8 @@
 >>> + <a href="https://mp.weixin.qq.com/s/9oz7b5vBlso_xoux3Djymw" target="_blank">外卖骑手，困在系统里</a>
 
 >> 4、企业物流
->>> + <a href="https://www.bilibili.com/video/BV1Pe4y1H7Dz" target="_blank">蜜雪冰城要上市了，给大家扒一扒它的秘密</a>
+>>> + <a href="https://www.bilibili.com/video/BV1Pe4y1H7Dz" target="_blank">蜜雪冰城要上市了，给大家扒一扒它的秘密</a><br>
+>>> + <a href="https://www.bilibili.com/video/BV1Mz4y1a7PM" target="_blank">瑞幸为什么没有被抛弃？深度拆析瑞幸重生真相</a>
 
 >大数据导论模块<br>
 【推荐】央视纪录片：<a href="https://www.bilibili.com/video/BV1px411X7RZ" target="_balnk">大数据时代</a>
