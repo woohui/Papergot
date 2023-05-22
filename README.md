@@ -9,6 +9,9 @@
 >>> + <a href="https://www.bilibili.com/video/BV1Pe4y1H7Dz" target="_blank">蜜雪冰城要上市了，给大家扒一扒它的秘密</a><br>
 >>> + <a href="https://www.bilibili.com/video/BV1Mz4y1a7PM" target="_blank">瑞幸为什么没有被抛弃？深度拆析瑞幸重生真相</a>
 
+>> 5、第三方快递
+>>> + <a href="https://www.bilibili.com/video/BV1eP4y177rK" target="_blank">快递江湖变幻莫测，阿里顺丰谁与争锋</a>
+
 >大数据导论模块<br>
 【推荐】央视纪录片：<a href="https://www.bilibili.com/video/BV1px411X7RZ" target="_balnk">大数据时代</a>
 >> 1、大数据的含义
