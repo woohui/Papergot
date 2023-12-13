@@ -1,3 +1,4 @@
+<img src="https://res.vmallres.com/uomcdn/CN/cms/2023-12/01b7e9d26aca4936955e508f3d60db3e.jpg">
 >物流管理<br>
 >> 1、现代物流概论
 >>> + <a href="https://www.bilibili.com/video/BV1Xa4y1h7Us" target="_blank">中国冲击世界第一的关键——物流专业！详解国家崛起的秘密</a><br>
