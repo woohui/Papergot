@@ -64,7 +64,7 @@
     <div class="container">
         <div class="row vh-md-100">
             <div class="col-md-7 my-md-auto text-center text-md-left">
-                <h1 class="display-3 text-white font-weight-bold">今天学习了吗？</h1>
+                <h1 class="display-3 text-white font-weight-bold">今天学习了吗？还有<div id="countdown"></div>天，你知道吗？</h1>
                 <p class="lead text-light my-4">文献看了吗？</p>
                 <a href="https://www.xljsci.com" class="btn btn-primary page-scroll" target="_balnk">不学了</a>
                 <a href="https://www.cnki.net" class="btn btn-primary page-scroll" target="_balnk">摆烂了</a>
@@ -73,6 +73,24 @@
     </div>
 </section>
 
+
+
+    <script>
+        function updateCountdown() {
+            const targetDate = new Date('2027-06-30');
+            const currentDate = new Date();
+            const timeDiff = targetDate - currentDate;
+
+            const daysRemaining = Math.floor(timeDiff / (1000 * 60 * 60 * 24));
+
+            document.getElementById('countdown').textContent = `距离2027年6月30日还有 ${daysRemaining} 天`;
+        }
+
+        updateCountdown();
+        setInterval(updateCountdown, 1000 * 60 * 60 * 24); // 每天更新一次倒计时
+    </script>
+    
+    
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdn.bootcdn.net/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
