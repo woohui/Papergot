@@ -68,7 +68,7 @@
                 <h1 class="display-3 text-white font-weight-bold">今天学习了吗？</h1>
                 <h1 style="color:#FFFFFF">还有<i id="countdown"></i>天，你知道吗？</h1>
                 <p class="lead text-light my-4">文献看了吗？</p>
-                <button onclick="randomRedirect()">不学了</button>
+                <a onclick="randomRedirect()">不学了</a>
                 
             </div>
             
@@ -92,7 +92,7 @@
         const randomIndex = Math.floor(Math.random() * links.length);
 
         // 跳转到随机选择的链接
-        window.location.href = links[randomIndex];
+        window.open(links[randomIndex], '_blank');
         }
         function updateCountdown() {
             const targetDate = new Date('2027-06-30');
