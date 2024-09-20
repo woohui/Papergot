@@ -68,10 +68,8 @@
                 <h1 class="display-3 text-white font-weight-bold">今天学习了吗？</h1>
                 <h1 style="color:#FFFFFF">还有<i id="countdown"></i>天，你知道吗？</h1>
                 <p class="lead text-light my-4">文献看了吗？</p>
-                <a href="https://www.xljsci.com" class="btn btn-primary page-scroll" target="_balnk">不学了</a> &nbsp;&nbsp;
-                <a href="https://www.cnki.net" class="btn btn-primary page-scroll" target="_balnk">摆烂了</a>&nbsp;&nbsp;
-                <a href="https://www.bilibili.com" class="btn btn-primary page-scroll" target="_balnk">去看论文</a><br>
-                <a href="https://kimi.moonshot.cn" target="_balnk"><img src="img/back.jpeg" width="350" height="350" style="margin-top:50px"></a>
+                <button onclick="randomRedirect()">不学了</button>
+                
             </div>
             
         </div>
@@ -81,6 +79,21 @@
 
 
     <script>
+        function randomRedirect() {
+        // 定义4个链接的数组
+        const links = [
+            "https://www.cnki.net",
+            "https://www.xljsci.com",
+            "https://kimi.moonshot.cn",
+            "https://www.bilibili.com"
+        ];
+
+        // 随机选择一个链接
+        const randomIndex = Math.floor(Math.random() * links.length);
+
+        // 跳转到随机选择的链接
+        window.location.href = links[randomIndex];
+        }
         function updateCountdown() {
             const targetDate = new Date('2027-06-30');
             const currentDate = new Date();
@@ -93,6 +106,7 @@
 
         updateCountdown();
         setInterval(updateCountdown, 1000 * 60 * 60 * 24); // 每天更新一次倒计时
+        
     </script>
     
     
